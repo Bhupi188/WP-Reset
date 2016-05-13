@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: WP Reset
-Plugin URI: #
+Plugin URI: https://github.com/Bhupi188/WP-Reset
 Description: It's resets the WordPress database to the default Wordpress installation. Deletes all customizations and content. Does not modify files only resets the database.
 Version: 1.0
 Author: Bhupender Singh
-Author URI: #
+Author URI: https://github.com/Bhupi188/
 Text Domain: WP-Reset
 */
 
